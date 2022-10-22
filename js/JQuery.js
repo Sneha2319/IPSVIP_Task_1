@@ -25,7 +25,7 @@ function changeActivePosition(activeItem){
 
 
 var typed =new Typed(".auto-input",{
-    strings: ["Sneha"," a Web Developer", " a Data Analyst"],
+    strings: ["Sneha"," a  Developer", " a Data Analyst"],
    typeSpeed:100,
    backSpeed:100,
    loop:true
